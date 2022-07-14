@@ -6,11 +6,11 @@ This is a MERN stack application. It is a small social network app that includes
 ### Add a .env file in the root folder with the following
 
 
-
+```bash
 REACT_APP_MONGOURI="<your_mongoDB_Atlas_uri_with_credentials>"
 REACT_APP_JWTSECRET="secret",
 REACT_APP_GITHUBTOKEN="<yoursecrectaccesstoken>"
-
+```
 
 ### Install server dependencies
 
